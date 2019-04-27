@@ -6,3 +6,4 @@ def square_array(array)
 
 
 end
+[1,2,3].square! #=> [1, 4, 9]
