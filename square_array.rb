@@ -1,7 +1,7 @@
 def square_array(array)
   # your code here
 
-    self.square!
+    self.square
 
 
 end
