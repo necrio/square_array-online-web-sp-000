@@ -3,5 +3,5 @@ def square_array(array)
 
     self.square!
 
-  end
+
 end
